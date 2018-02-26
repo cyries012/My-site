@@ -1,0 +1,50 @@
+.navbar-brand
+{
+    font-family: monospace;
+    font-weight: 800;
+    font-size: 1.9em;
+    color: white;
+    margin: 0px;
+}
+
+.navbar
+{
+    margin: 0px;
+}
+
+li 
+{
+    font-size: 1.5em;
+}
+
+.container
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.jumbotron
+{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding: 18px;
+    
+}
+
+footer 
+{
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+.item {
+    max-height: 645px;
+}
+
+
+}
+
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
